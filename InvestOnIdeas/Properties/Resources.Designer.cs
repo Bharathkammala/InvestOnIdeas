@@ -10,8 +10,9 @@
 
 namespace InvestOnIdeas.Properties {
     using System;
-    
-    
+    using System.Drawing;
+
+
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
@@ -23,7 +24,7 @@ namespace InvestOnIdeas.Properties {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
-        
+        internal static Bitmap DefaultAvatar;
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
@@ -57,6 +58,15 @@ namespace InvestOnIdeas.Properties {
             }
             set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to supabase.
+        /// </summary>
+        internal static string api {
+            get {
+                return ResourceManager.GetString("api", resourceCulture);
             }
         }
         

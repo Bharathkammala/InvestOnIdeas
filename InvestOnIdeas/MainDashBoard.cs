@@ -10,11 +10,28 @@ using System.Windows.Forms;
 
 namespace InvestOnIdeas
 {
-    public partial class MainDashBoard : Form
+    public partial class MainDashboard : Form
     {
-        public MainDashBoard()
+        public MainDashboard()
         {
             InitializeComponent();
+            LoadTimeLine();
         }
+
+        private void LoadTimeLine()
+        {
+            PanelView.Controls.Clear();
+
+            TimelineFeed oTeamForm = new TimelineFeed
+            {
+                TopLevel = false,
+                FormBorderStyle = FormBorderStyle.None,
+                Dock = DockStyle.Fill
+            };
+
+            PanelView.Controls.Add(oTeamForm);
+            oTeamForm.Show();
+        }
+
     }
 }

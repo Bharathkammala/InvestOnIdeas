@@ -70,17 +70,17 @@ namespace InvestOnIdeas
         {
             bool validUser = !string.IsNullOrEmpty(UserNameTxtBox.Text) && UserNameTxtBox.Text.Length >= 4;
             bool validPassword = IsPasswordValid();
-            string Role = "Teamlead"; // Hardcoded for now
+            string Role = "user"; // Hardcoded for now
 
             if (validUser && validPassword)
             {
-                if (Role == "Teamlead")
+                if (Role == "user")
                 {
-                    //TeamleadDashboard oTLform = new TeamleadDashboard();
+                    MainDashboard oMainDasHboard = new MainDashboard();
                     this.Hide();
-                    //oTLform.Show();
+                    oMainDasHboard.Show();
                 }
-                else if (Role == "Member")
+                else if (Role == "Admin")
                 {
                     //MemberDashboard memberDashboard = new MemberDashboard();
                     this.Hide();
