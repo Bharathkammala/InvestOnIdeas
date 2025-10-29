@@ -1,3 +1,4 @@
+
 namespace InvestOnIdeas
 {
     internal static class Program

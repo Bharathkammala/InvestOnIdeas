@@ -1,0 +1,6 @@
+@InvestOnIdeas.API_HostAddress = http://localhost:5241
+
+GET {{InvestOnIdeas.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
