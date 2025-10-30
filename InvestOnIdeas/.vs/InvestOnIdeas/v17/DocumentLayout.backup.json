@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "N:\\August Devices\\IOI\\IOI Project\\IOIProjectPractise\\InvestOnIdeas\\InvestOnIdeas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73261A85-CE8F-4910-BDD9-CCC0B402CE25}|InvestOnIdeas.csproj|n:\\august devices\\ioi\\ioi project\\ioiprojectpractise\\investonideas\\investonideas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73261A85-CE8F-4910-BDD9-CCC0B402CE25}|InvestOnIdeas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73261A85-CE8F-4910-BDD9-CCC0B402CE25}|InvestOnIdeas.csproj|n:\\august devices\\ioi\\ioi project\\ioiprojectpractise\\investonideas\\investonideas\\chatwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73261A85-CE8F-4910-BDD9-CCC0B402CE25}|InvestOnIdeas.csproj|solutionrelative:chatwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73261A85-CE8F-4910-BDD9-CCC0B402CE25}|InvestOnIdeas.csproj|n:\\august devices\\ioi\\ioi project\\ioiprojectpractise\\investonideas\\investonideas\\chatwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73261A85-CE8F-4910-BDD9-CCC0B402CE25}|InvestOnIdeas.csproj|solutionrelative:chatwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73261A85-CE8F-4910-BDD9-CCC0B402CE25}|InvestOnIdeas.csproj|n:\\august devices\\ioi\\ioi project\\ioiprojectpractise\\investonideas\\investonideas\\collaborations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73261A85-CE8F-4910-BDD9-CCC0B402CE25}|InvestOnIdeas.csproj|solutionrelative:collaborations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73261A85-CE8F-4910-BDD9-CCC0B402CE25}|InvestOnIdeas.csproj|n:\\august devices\\ioi\\ioi project\\ioiprojectpractise\\investonideas\\investonideas\\collaborations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73261A85-CE8F-4910-BDD9-CCC0B402CE25}|InvestOnIdeas.csproj|solutionrelative:collaborations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatWindow.cs",
+              "DocumentMoniker": "N:\\August Devices\\IOI\\IOI Project\\IOIProjectPractise\\InvestOnIdeas\\InvestOnIdeas\\ChatWindow.cs",
+              "RelativeDocumentMoniker": "ChatWindow.cs",
+              "ToolTip": "N:\\August Devices\\IOI\\IOI Project\\IOIProjectPractise\\InvestOnIdeas\\InvestOnIdeas\\ChatWindow.cs",
+              "RelativeToolTip": "ChatWindow.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA9wBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:18:37.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatWindow.Designer.cs",
+              "DocumentMoniker": "N:\\August Devices\\IOI\\IOI Project\\IOIProjectPractise\\InvestOnIdeas\\InvestOnIdeas\\ChatWindow.Designer.cs",
+              "RelativeDocumentMoniker": "ChatWindow.Designer.cs",
+              "ToolTip": "N:\\August Devices\\IOI\\IOI Project\\IOIProjectPractise\\InvestOnIdeas\\InvestOnIdeas\\ChatWindow.Designer.cs",
+              "RelativeToolTip": "ChatWindow.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:18:29.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Collaborations.Designer.cs",
+              "DocumentMoniker": "N:\\August Devices\\IOI\\IOI Project\\IOIProjectPractise\\InvestOnIdeas\\InvestOnIdeas\\Collaborations.Designer.cs",
+              "RelativeDocumentMoniker": "Collaborations.Designer.cs",
+              "ToolTip": "N:\\August Devices\\IOI\\IOI Project\\IOIProjectPractise\\InvestOnIdeas\\InvestOnIdeas\\Collaborations.Designer.cs",
+              "RelativeToolTip": "Collaborations.Designer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwGEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:56:58.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Collaborations.cs",
+              "DocumentMoniker": "N:\\August Devices\\IOI\\IOI Project\\IOIProjectPractise\\InvestOnIdeas\\InvestOnIdeas\\Collaborations.cs",
+              "RelativeDocumentMoniker": "Collaborations.cs",
+              "ToolTip": "N:\\August Devices\\IOI\\IOI Project\\IOIProjectPractise\\InvestOnIdeas\\InvestOnIdeas\\Collaborations.cs",
+              "RelativeToolTip": "Collaborations.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:46:48.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "N:\\August Devices\\IOI\\IOI Project\\IOIProjectPractise\\InvestOnIdeas\\InvestOnIdeas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "N:\\August Devices\\IOI\\IOI Project\\IOIProjectPractise\\InvestOnIdeas\\InvestOnIdeas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:46:17.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
